@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_text">Project. Gratitude. Recipe</string>
+    <string name="gratefull_text">"what are you grateful for today  "</string>
+    <string name="gets_started_text">Get Started</string>
+    <string name="email_hint">"Email "</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">Or</string>
+    <string name="crate_account">Create Account</string>
+    <string name="user_name">username</string>
+    <string name="menu_title">Add Recipe</string>
+    <string name="signout">signout</string>
+    <string name="noRecipeHint">Write a Recipe  Entry by clicking the \"+\" icon</string>
+    <string name="title_text_main">Skanchpil</string>
+    <string name="main_welcome">Share Your Recipes</string>
+</resources>
